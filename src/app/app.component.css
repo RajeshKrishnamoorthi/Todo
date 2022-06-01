@@ -1,0 +1,29 @@
+input {
+  width: 100vw;
+  background: rgb(197, 195, 195);
+  padding: 10px;
+}
+
+.add {
+  background-color: rgb(240, 124, 211);
+  color: cornsilk;
+  text-align: center;
+  padding: 10px;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-top: 10px;
+  margin-left: 560px;
+}
+ul {
+  background-color: rgb(192, 189, 189);
+  list-style: none;
+  padding-top: 8px;
+  height: 30px;
+}
+li {
+  align-content: center;
+}
+ul button {
+  background-color: rgb(243, 240, 240);
+  float: right;
+}
